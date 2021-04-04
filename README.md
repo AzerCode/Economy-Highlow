@@ -3,7 +3,7 @@ A Highlow command similar to Dank Memer.
 
 # My most secret and best Highlow Command
 
-#Disclaimer
+# Disclaimer
 1. These codes are 100% designed and created by me - Azer#8885. So make sure you're credited to me. Otherwise, you'll have copyright issues.
 2. There are NO viruses in the file. A txt or .txt file can't have virus. As always, viruses are executed, a txt or .txt file can't execute a virus and/or code.
 3. Don't be dumb, copying and pasting won't make you learn. Read the codes.
