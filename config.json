@@ -1,5 +1,5 @@
 {
    "token": "top-secret-token",
    "mongodb_srv": "Your-MongoDB-Application-URL",
-   "embedColor": "favourite-embed-color" 
+   "embedColor": "favorite-embed-color" 
 }
