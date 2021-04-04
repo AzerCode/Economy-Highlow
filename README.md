@@ -13,7 +13,7 @@ A Highlow command similar to Dank Memer.
 1. Star this [repository](http://github.com/AzerCode/Highlow)
 2. Fork this [repository](http://github.com/AzerCode/Highlow)
 3. Follow [me](http://github.com/AzerCode)
-4. Make videos on my projects
+4. Make videos on [my projects](http://github.com/AzerCode/repositories)
 5. Join my server - [Immortal's World](https://discord.gg/SyddyzGJsa) for free codes.
 
 # Things not to do:
