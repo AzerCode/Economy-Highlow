@@ -1,0 +1,25 @@
+
+const mongoose = require("mongoose");
+
+const profileSchema = new mongoose.Schema({
+userID: {
+type: String,
+require: true,
+unqiue: true,
+},
+serverID: {
+type: String, 
+require: true,
+},
+coins: { 
+type: Number,
+default: 1000,
+}, 
+bank: {
+type: Number
+},
+});
+
+const model = mongoose.model("Economy System", profileSchema);
+
+module.exports = model;
