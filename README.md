@@ -14,7 +14,7 @@ A Highlow command similar to Dank Memer.
 2. Fork this repository
 3. Follow me
 4. Make videos on my projects
-5. Join my server - Immortal's World for free codes.
+5. Join my server - [Immortal's World](https://discord.gg/SyddyzGJsa) for free codes.
 
 # Things not to do:
 1. Don't be dumb
